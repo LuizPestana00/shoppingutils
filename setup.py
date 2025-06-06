@@ -4,6 +4,6 @@ setup(name='shoppingutils',
       description='Shoppingutils Distribution Package',
       author='Luiz Pestana',
       author_email='aluno82329@ipt.pt',
-      url='The URL project - github for example',
+      url='https://github.com/LuizPestana00/shoppingutils',
       packages=['shoppingutils'],
      )
