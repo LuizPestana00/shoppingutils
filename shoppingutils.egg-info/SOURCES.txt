@@ -1,0 +1,8 @@
+setup.py
+shoppingutils/__init__.py
+shoppingutils/cart.py
+shoppingutils/inventory.py
+shoppingutils.egg-info/PKG-INFO
+shoppingutils.egg-info/SOURCES.txt
+shoppingutils.egg-info/dependency_links.txt
+shoppingutils.egg-info/top_level.txt
